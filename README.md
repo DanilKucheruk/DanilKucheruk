@@ -50,6 +50,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DanilKucheruk/DanilKucheruk/output/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ###
